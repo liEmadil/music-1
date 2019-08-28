@@ -1,0 +1,6 @@
+owner=255429901891403778
+prefix=e
+game=p7k
+stayinchannel=true
+songinstatus=false
+token=NjE2MjEzOTA5NjYxMDI0Mjc4.XWZT9w.yphCq4CvTUmVhLHHYUmyNXhQdtc
